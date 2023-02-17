@@ -1,7 +1,7 @@
 # CS50 Project 
 
 # Learn Basics of FAST API
-    #### Video Demo:  <URL HERE>
+    #### Video Demo:  [VideoScribe Video](https://www.youtube.com/watch?v=RO6OVLj2JWo)
     #### Description: Learn FastAPI basics providing simple example of GET, POST, PUT and DELETE Operations
 
 ## Pre-Requsites/Dependencies
