@@ -3,6 +3,7 @@
 # Learn Basics of FAST API
     #### Video Demo:  [VideoScribe Video](https://www.youtube.com/watch?v=RO6OVLj2JWo)
     #### Description: Learn FastAPI basics providing simple example of GET, POST, PUT and DELETE Operations
+<a href="https://www.youtube.com/watch?v=RO6OVLj2JWo" class="external-link" target="_blank">Click to see Youtube Video</a>
 
 ## Pre-Requsites/Dependencies
 Python 3.7+ versions are compatible
