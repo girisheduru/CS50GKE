@@ -26,7 +26,9 @@ $ pip install requirements.txt
 ## Execution
     * project.py has the crud operations
   
-To run the main and start the uvicorn server to have the fast api hosted below is the command  
+To run the main and start the uvicorn server to have the fast api hosted below is the command.
+The command calls the main method to run "uvicorn.run(app, host="0.0.0.0", port=8000)"
+
 ```console
 $ cd project 
 project/ $ python project.py
