@@ -64,6 +64,6 @@ You will see the automatic interactive API documentation (provided by <a href="h
 ![Swagger UI](https://github.com/girisheduru/CS50GKE/blob/main/Screenshot%202023-02-17%20at%2000.41.41.png)
 
 ### References & Tutorials
-https://fastapi.tiangolo.com/
-https://www.youtube.com/watch?v=tLKKmouUams
+ - https://fastapi.tiangolo.com/
+ - https://www.youtube.com/watch?v=tLKKmouUams
 
